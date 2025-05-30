@@ -10,9 +10,9 @@
 <tr>
 <td align="center" width="300">
 🎯 CORE WEAPONS
-Show Image
-Show Image
-Show Image
+[Show Image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=306998)
+[Show Image](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
+[Show Image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black)
 </td>
 <td align="center" width="300">
 🛡️ DATABASE MASTERY
