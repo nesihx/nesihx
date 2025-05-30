@@ -1,20 +1,22 @@
-<h1 align="center">Merhaba, ben Nesih 👋</h1>
+<h1 align="center">Hi there, I'm Nesih 👋</h1>
 
 <p align="center">
-  💻 Yazılım Geliştirici | 🚀 Teknoloji Tutkunu | 🧠 Sürekli Öğrenen
+  💻 Software Developer & AI Enthusiast <br/>
+  🚀 Passionate about technology, clean code and continuous learning
 </p>
 
 ---
 
-### 🧩 Hakkımda
-- 🎓 Bilgisayar mühendisliği öğrencisiyim / mezunuyum *(isteğine göre değiştirebilirim)*  
-- 🛠️ Python, Java, C#, HTML/CSS, JavaScript teknolojileriyle projeler geliştiriyorum.  
-- 🤖 Yapay zeka, makine öğrenimi ve görüntü işleme alanlarına ilgi duyuyorum.  
-- 🌱 Şu anda yeni teknolojileri öğrenmeye devam ediyorum ve açık kaynak projelere katkı sağlıyorum.  
+### 🚀 About Me
+
+- 👨‍💻 I work with Python, Java, C#, HTML/CSS, and JavaScript
+- 📚 Interested in AI, machine learning, automation, and open source
+- 🌱 Currently improving myself in full-stack development & data science
+- 🧠 I love learning and building meaningful projects
 
 ---
 
-### 🔧 Kullandığım Teknolojiler
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,react,nodejs,git,github,linux,vscode&theme=light" />
@@ -22,34 +24,18 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nesihx&show_icons=true&theme=radical" alt="Nesih's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesihx&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nesihx&show_icons=true&hide_title=true&hide=issues&theme=calm" />
 </p>
 
 ---
 
-### 📫 Bana Ulaş
-
-- 📧 Mail: [nesih@example.com](mailto:nesih@example.com) *(istersen gerçek e-posta adresinle değiştirebilirim)*
-- 💼 LinkedIn: [linkedin.com/in/nesihx](https://linkedin.com/in/nesihx)
-- 🌐 Web: [Kişisel siteniz varsa buraya ekleyebilirim]
-
----
-
-### ✨ Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| [📱 Instagram Takipçi Analiz Aracı](https://github.com/nesihx/instagram-follower-analyzer) | Takipçi ve takip edilenleri karşılaştıran araç | Python, Tkinter, Selenium |
-| [📊 Kullanıcı Davranışı Sınıflandırma](https://github.com/nesihx/user-behavior-classification) | Mobil kullanım verileri ile ML modeli | Python, Scikit-learn |
-| [🎮 Basit 2D Oyun](https://github.com/nesihx/2d-game-project) | Eğlenceli bir oyun projesi | C#, Unity |
-
----
+### 🔗 Reach Me
 
 <p align="center">
-  💡 "Kod yazmak sanattır, paylaşmak ise sanatı yaşatmaktır."
+  <a href="mailto:nesih@example.com">📧 Mail</a> |
+  <a href="https://linkedin.com/in/nesihx">💼 LinkedIn</a> |
+  <a href="https://github.com/nesihx">🌐 GitHub</a>
 </p>
