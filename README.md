@@ -24,11 +24,11 @@
 </p>
 
 ---
-### 📊 GitHub İstatistiklerim
+
+### ✨
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nesihx&show_icons=true&theme=radical&hide_title=true&hide=issues&hide_border=true&count_private=true" width="42%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesihx&layout=compact&theme=radical&hide_border=true" width="42%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=İyi+bir+yazılımcı,+hiçbir+zaman+tamam+olduğunu+düşünmez.;Kod+yazmak,+bir+düşünme+biçimidir.;Açık+kaynak+ruhuyla+paylaşmayı+seviyorum.;Her+gün+bir+satır+daha+iyi+olmak+gerek.;Minimal,+temiz+ve+anlamlı+kod+önceliğimdir." />
 </p>
 
 ---
@@ -40,3 +40,4 @@
   <a href="https://linkedin.com/in/nesihx"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/nesihx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
