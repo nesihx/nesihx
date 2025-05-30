@@ -24,14 +24,18 @@
 </p>
 
 ---
-
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nesihx&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesihx&theme=radical" width="45%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesihx&layout=compact&theme=radical" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nesihx&show_icons=true&theme=radical&hide_border=false&count_private=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesihx&theme=radical&hide_border=false" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesihx&layout=compact&theme=radical&hide_border=false" width="50%" />
 </p>
 
 ---
