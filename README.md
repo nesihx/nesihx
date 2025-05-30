@@ -1,11 +1,9 @@
-<h1 align="center">👋 Merhaba, ben Nesih</h1>
-
 <p align="center">
-  💻 Software Developer | 🤖 AI & ML Enthusiast | 🌍 Tech Explorer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=Merhaba,+ben+Nesih+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  💡 "Kod yazmak bir sanattır, paylaşmak ise sanatı yaşatmaktır."
 </p>
 
 ---
@@ -38,30 +36,10 @@
 
 ---
 
-### 🌟 Öne Çıkanlar
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100"/>
-</p>
-
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| 🎯 [Instagram Takipçi Analiz](https://github.com/nesihx/instagram-follower-analyzer) | Kim seni takipten çıkardı? | Python, Selenium, Tkinter |
-| 📊 [Kullanıcı Davranış Sınıflandırma](https://github.com/nesihx/user-behavior-classification) | ML ile kullanıcı profilleri | Python, Scikit-learn |
-| 🎮 [Mini 2D Oyun](https://github.com/nesihx/2d-game-project) | Basit ve eğlenceli bir oyun | C#, Unity |
-
----
-
 ### 📫 Bana Ulaş
 
 <p align="center">
   <a href="mailto:nesih@example.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/nesihx"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/nesihx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=Kod+yazmak+bir+sanattır...;Açık+kaynak+gelecektir.;Hoş+geldiniz+profilime!">
 </p>
